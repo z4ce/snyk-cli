@@ -67,7 +67,7 @@
     "@snyk/code-client": "^4.23.5",
     "@snyk/dep-graph": "^2.7.4",
     "@snyk/docker-registry-v2-client": "^2.11.0",
-    "@snyk/fix": "file:packages/snyk-fix",
+    "@snyk/fix": "1.471.0",
     "@snyk/gemfile": "1.2.0",
     "@snyk/snyk-cocoapods-plugin": "2.5.3",
     "@snyk/snyk-hex-plugin": "1.1.6",
@@ -76,7 +76,7 @@
     "abbrev": "^1.1.1",
     "adm-zip": "^0.5.9",
     "ansi-escapes": "3.2.0",
-    "chalk": "^2.4.2",
+    "chalk": "^5.0.0",
     "cli-spinner": "0.2.10",
     "configstore": "^5.0.1",
     "debug": "^4.1.1",
@@ -108,7 +108,7 @@
     "micromatch": "4.0.8",
     "needle": "^3.3.0",
     "open": "^7.0.3",
-    "ora": "5.4.0",
+    "ora": "6.1.0",
     "os-name": "^5.1.0",
     "p-map": "^4.0.0",
     "proxy-from-env": "^1.0.0",
@@ -133,7 +133,7 @@
     "strip-ansi": "^6.0.1",
     "tar": "^6.2.1",
     "uuid": "^8.3.2",
-    "wrap-ansi": "^5.1.0"
+    "wrap-ansi": "^8.0.0"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.1",
