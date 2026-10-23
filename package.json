@@ -68,7 +68,7 @@
     "@snyk/dep-graph": "^2.16.3",
     "@snyk/docker-registry-v2-client": "^2.24.1",
     "@snyk/error-catalog-nodejs-public": "^5.79.0",
-    "@snyk/fix": "file:packages/snyk-fix",
+    "@snyk/fix": "1.471.0",
     "@snyk/gemfile": "1.2.0",
     "@snyk/snyk-cocoapods-plugin": "3.1.0",
     "@snyk/snyk-hex-plugin": "2.1.0",
